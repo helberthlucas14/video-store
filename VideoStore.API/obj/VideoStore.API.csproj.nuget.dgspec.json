@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.API\\VideoStore.API.csproj": {}
+    "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.API\\VideoStore.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.API\\VideoStore.API.csproj": {
+    "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.API\\VideoStore.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.API\\VideoStore.API.csproj",
+        "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.API\\VideoStore.API.csproj",
         "projectName": "VideoStore.API",
-        "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.API\\VideoStore.API.csproj",
+        "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.API\\VideoStore.API.csproj",
         "packagesPath": "C:\\Users\\Helberth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.API\\obj\\",
+        "outputPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Helberth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,14 +27,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Application\\VideoStore.Application.csproj": {
-                "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Application\\VideoStore.Application.csproj"
+              "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Application\\VideoStore.Application.csproj": {
+                "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Application\\VideoStore.Application.csproj"
               },
-              "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj": {
-                "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj"
+              "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj": {
+                "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj"
               },
-              "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj"
+              "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Application\\VideoStore.Application.csproj": {
+    "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Application\\VideoStore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Application\\VideoStore.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Application\\VideoStore.Application.csproj",
         "projectName": "VideoStore.Application",
-        "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Application\\VideoStore.Application.csproj",
+        "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Application\\VideoStore.Application.csproj",
         "packagesPath": "C:\\Users\\Helberth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Application\\obj\\",
+        "outputPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Helberth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,8 +118,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Core\\VideoStore.Core.csproj": {
-                "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Core\\VideoStore.Core.csproj"
+              "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Core\\VideoStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Core\\VideoStore.Core.csproj"
               }
             }
           }
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Core\\VideoStore.Core.csproj": {
+    "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Core\\VideoStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Core\\VideoStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Core\\VideoStore.Core.csproj",
         "projectName": "VideoStore.Core",
-        "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Core\\VideoStore.Core.csproj",
+        "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Core\\VideoStore.Core.csproj",
         "packagesPath": "C:\\Users\\Helberth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Core\\obj\\",
+        "outputPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Helberth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj": {
+    "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj",
+        "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj",
         "projectName": "VideoStore.Infrastructure.CrossCutting.Commons",
-        "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj",
+        "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj",
         "packagesPath": "C:\\Users\\Helberth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\obj\\",
+        "outputPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Helberth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -268,14 +268,14 @@
         }
       }
     },
-    "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj": {
+    "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj",
         "projectName": "VideoStore.Infrastructure",
-        "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Helberth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Helberth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -291,11 +291,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Application\\VideoStore.Application.csproj": {
-                "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Application\\VideoStore.Application.csproj"
+              "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Application\\VideoStore.Application.csproj": {
+                "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Application\\VideoStore.Application.csproj"
               },
-              "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Core\\VideoStore.Core.csproj": {
-                "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Core\\VideoStore.Core.csproj"
+              "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Core\\VideoStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Core\\VideoStore.Core.csproj"
               }
             }
           }

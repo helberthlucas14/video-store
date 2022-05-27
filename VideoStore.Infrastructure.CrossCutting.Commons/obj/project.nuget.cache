@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ri8DofE03kVEXB7xZMp40gPHPhGZYPeLe29z9tO1R+y5Rew3Steyz8Nipi18ECEC6/cHmjFHEGkQYD2qFgwIgQ==",
+  "dgSpecHash": "6Drjy6ks1JJne13iuUA8NByMQvIAQkBQIqh1WZywFGZQhWY/TtBA7VvP0u8fpXZ9bOJiyIuKFs+qBqOADVjM6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj",
+  "projectFilePath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

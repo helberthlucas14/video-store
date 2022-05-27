@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "knxyRJC+UWDQQ5Eth2Embf7mKjrW3wbw8LW2nywL0hKO0deDsZSHZbMWYNQomjo2oeZfb6R9hY4MLwJQyTaaRA==",
+  "dgSpecHash": "vJBy9VQ/BdsRjy0VmrbCsqvGaGSQp5MOVscnGZXuDIsYaynJCJLaBgq8S4bjwrI5cLFHjkTuVXBIthX0PTRJog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.API\\VideoStore.API.csproj",
+  "projectFilePath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.API\\VideoStore.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Helberth\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\Helberth\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.1.0\\fluentvalidation.aspnetcore.10.1.0.nupkg.sha512",

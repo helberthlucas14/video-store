@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj",
+      "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj",
       "projectName": "VideoStore.Infrastructure.CrossCutting.Commons",
-      "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj",
+      "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj",
       "packagesPath": "C:\\Users\\Helberth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\obj\\",
+      "outputPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Helberth\\AppData\\Roaming\\NuGet\\NuGet.Config",

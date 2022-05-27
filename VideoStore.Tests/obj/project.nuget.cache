@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qMD3KMZ5R+4iVFMsBwqFgoWUTMO1RhMu8AIASeRdcCgLnRNU+l+koZk+UJakeQ2FEdrOEWbJ5LiBLFLY6//chA==",
+  "dgSpecHash": "6BIO9PtznaQzhDowBloesG8ZTAUDagkQFyctxzq4YKOATYInK0h1TGUBx8BcoxRrte435sCP/1pxoapxQF9n4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Tests\\VideoStore.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Tests\\VideoStore.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Helberth\\.nuget\\packages\\autofixture\\4.17.0\\autofixture.4.17.0.nupkg.sha512",
     "C:\\Users\\Helberth\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

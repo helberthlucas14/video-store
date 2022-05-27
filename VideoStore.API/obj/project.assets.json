@@ -5912,11 +5912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.API\\VideoStore.API.csproj",
+      "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.API\\VideoStore.API.csproj",
       "projectName": "VideoStore.API",
-      "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.API\\VideoStore.API.csproj",
+      "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.API\\VideoStore.API.csproj",
       "packagesPath": "C:\\Users\\Helberth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.API\\obj\\",
+      "outputPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Helberth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5932,14 +5932,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Application\\VideoStore.Application.csproj": {
-              "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Application\\VideoStore.Application.csproj"
+            "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Application\\VideoStore.Application.csproj": {
+              "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Application\\VideoStore.Application.csproj"
             },
-            "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj": {
-              "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj"
+            "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj": {
+              "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure.CrossCutting.Commons\\VideoStore.Infrastructure.CrossCutting.Commons.csproj"
             },
-            "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj"
+            "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Infrastructure\\VideoStore.Infrastructure.csproj"
             }
           }
         }

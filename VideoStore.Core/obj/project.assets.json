@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Core\\VideoStore.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Core\\VideoStore.Core.csproj",
       "projectName": "VideoStore.Core",
-      "projectPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Core\\VideoStore.Core.csproj",
+      "projectPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Core\\VideoStore.Core.csproj",
       "packagesPath": "C:\\Users\\Helberth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Helberth\\source\\repos\\VideoStore\\VideoStore.Core\\obj\\",
+      "outputPath": "C:\\Users\\Helberth\\source\\repos\\video-store\\VideoStore.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Helberth\\AppData\\Roaming\\NuGet\\NuGet.Config",
