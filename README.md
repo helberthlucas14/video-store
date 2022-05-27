@@ -36,7 +36,7 @@
         - Retornar a lista ordenada por filmes mais votados e por ordem alfabética
     - Detalhes do filme trazendo todas as informações sobre o filme, inclusive a média dos votos
 
-## Usuarios para Teste
+## Usuarios para Testes
 
 	- admin@admin.com senha: Admin@12345
 	- user@user.com   senha:User@12345
