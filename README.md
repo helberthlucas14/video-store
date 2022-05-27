@@ -13,7 +13,7 @@
 ## EF
 
 - [x] Sql
-- [x] Migrations]
+- [x] Migrations
 
 ## API contendo as seguintes funcionalidades:
 
