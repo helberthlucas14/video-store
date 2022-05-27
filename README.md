@@ -1,4 +1,4 @@
-# Desafio Desenvolvedora .NET 5
+# Desafio  .NET Core
  
 ## Técnicas
 
