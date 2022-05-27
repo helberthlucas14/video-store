@@ -35,7 +35,10 @@ namespace VideoStore
         public void ConfigureServices(IServiceCollection services)
         {
             var connectionString = Configuration.GetConnectionString("VideoStoreDB");
-            connectionString = connectionString.DbStringFormat(Configuration["DATABASE_HOST"], Configuration["DATABASE_USER"], Configuration["DATABASE_PASSWORD"]);
+            connectionString = connectionString
+                                .DbStringFormat(Configuration["DATABASE_HOST"],
+                                                Configuration["DATABASE_USER"],
+                                                Configuration["DATABASE_PASSWORD"]);
 
             services.AddDbContext<VideoStoreDbContext>(op => op.UseSqlServer(connectionString));
 
@@ -89,6 +92,9 @@ namespace VideoStore
                 });
             });
 
+            var Issuer = Configuration["JWTISSUER"];
+            var Audience = Configuration["JWTAUDIENCE"];
+            
             services
                 .AddAuthentication("Bearer")
                 .AddJwtBearer(opt =>
@@ -100,8 +106,8 @@ namespace VideoStore
                         ValidateLifetime = true,
                         ValidateIssuerSigningKey = true,
 
-                        ValidIssuer = Configuration["Jwt:Issuer"],
-                        ValidAudience = Configuration["Jwt:Audience"],
+                        ValidIssuer = Issuer,
+                        ValidAudience = Audience,
                         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
                     };
                 });
