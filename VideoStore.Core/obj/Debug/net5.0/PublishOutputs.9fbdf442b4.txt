@@ -1,0 +1,3 @@
+C:\Users\Helberth\source\repos\VideoStore.API\VideoStore.Core\bin\Debug\net5.0\publish\VideoStore.Core.dll
+C:\Users\Helberth\source\repos\VideoStore.API\VideoStore.Core\bin\Debug\net5.0\publish\VideoStore.Core.deps.json
+C:\Users\Helberth\source\repos\VideoStore.API\VideoStore.Core\bin\Debug\net5.0\publish\VideoStore.Core.pdb

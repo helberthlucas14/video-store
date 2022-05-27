@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Helberth\source\repos\VideoStore\VideoStore.API\obj\Release\net5.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Helberth\source\repos\VideoStore\VideoStore.API\obj\Release\net5.0\PubTmp\EFSQLScripts\VideoStore.Infrastructure.Persistence.VideoStoreDbContext.sql" />
+</sitemanifest>

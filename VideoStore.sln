@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VideoStore.Application", "VideoStore.Application\VideoStore.Application.csproj", "{B4D88D58-99DB-4DCD-9726-791C81C8127D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VideoStore.Core", "VideoStore.Core\VideoStore.Core.csproj", "{2B1F2E53-E407-42E2-BBD3-1DD8FAF639EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VideoStore.Infrastructure", "VideoStore.Infrastructure\VideoStore.Infrastructure.csproj", "{DA7A0AF9-C6EF-4EF3-BE19-1CB7CD9BA488}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VideoStore.Tests", "VideoStore.Tests\VideoStore.Tests.csproj", "{3B79239F-1CA6-40DA-BC74-9533812C8B80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VideoStore.API", "VideoStore.API\VideoStore.API.csproj", "{2BECB650-0052-4DF9-8CB3-875DE31D14F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStore.Infrastructure.CrossCutting.Commons", "VideoStore.Infrastructure.CrossCutting.Commons\VideoStore.Infrastructure.CrossCutting.Commons.csproj", "{8CB85347-9ECD-44B7-9B4D-382BFE83008D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D88D58-99DB-4DCD-9726-791C81C8127D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D88D58-99DB-4DCD-9726-791C81C8127D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D88D58-99DB-4DCD-9726-791C81C8127D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D88D58-99DB-4DCD-9726-791C81C8127D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1F2E53-E407-42E2-BBD3-1DD8FAF639EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1F2E53-E407-42E2-BBD3-1DD8FAF639EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1F2E53-E407-42E2-BBD3-1DD8FAF639EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1F2E53-E407-42E2-BBD3-1DD8FAF639EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7A0AF9-C6EF-4EF3-BE19-1CB7CD9BA488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7A0AF9-C6EF-4EF3-BE19-1CB7CD9BA488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7A0AF9-C6EF-4EF3-BE19-1CB7CD9BA488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7A0AF9-C6EF-4EF3-BE19-1CB7CD9BA488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B79239F-1CA6-40DA-BC74-9533812C8B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B79239F-1CA6-40DA-BC74-9533812C8B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B79239F-1CA6-40DA-BC74-9533812C8B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B79239F-1CA6-40DA-BC74-9533812C8B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BECB650-0052-4DF9-8CB3-875DE31D14F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BECB650-0052-4DF9-8CB3-875DE31D14F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BECB650-0052-4DF9-8CB3-875DE31D14F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BECB650-0052-4DF9-8CB3-875DE31D14F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB85347-9ECD-44B7-9B4D-382BFE83008D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB85347-9ECD-44B7-9B4D-382BFE83008D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB85347-9ECD-44B7-9B4D-382BFE83008D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB85347-9ECD-44B7-9B4D-382BFE83008D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF304DC-DE01-48BA-88CD-C05B7DD25D55}
+	EndGlobalSection
+EndGlobal

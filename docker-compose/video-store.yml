@@ -1,0 +1,42 @@
+version: "3.9"
+networks:
+  connection:
+    driver: bridge
+
+services:
+  sql-server-db:
+    image: "mcr.microsoft.com/mssql/server"
+    container_name: sqlserverdb
+    ports:
+      - 1433:1433
+    environment:
+      SA_PASSWORD: "mssql1Ipw"
+      ACCEPT_EULA: "Y"
+    networks:
+      - connection
+    volumes:
+      - ~/apps/mssql/data:/var/lib/mssqlql/data
+    restart: always
+  video-store-service:
+      image: videostore:latest
+      container_name: video-store
+      build:
+        context: ../../VideoStore
+        dockerfile: ./VideoStore.API/Dockerfile
+      ports:
+        - 5001:5001
+      environment:
+        - ASPNETCORE_ENVIRONMENT=Development
+        - ASPNETCORE_URLS=http://*:5001
+        - DATABASE_HOST=sqlserverdb
+        - DATABASE_USER=SA
+        - DATABASE_PASSWORD=mssql1Ipw
+      links:
+        - sql-server-db
+      networks:
+        - connection
+      depends_on:
+        - sql-server-db
+      restart: always
+      
+

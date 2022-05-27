@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VideoStore.Infrastructure.CrossCutting.Commons/1.0.0": {
+        "runtime": {
+          "VideoStore.Infrastructure.CrossCutting.Commons.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VideoStore.Infrastructure.CrossCutting.Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
