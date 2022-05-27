@@ -1,4 +1,4 @@
-# Desafio  .NET Core
+# Desafio Desenvolvedora .NET 5
  
 ## Técnicas
 
@@ -10,9 +10,10 @@
 - [x] FluentValidation
 - [x] Docker
 
-## ORM EF (ENTITY FRAMEWORK)
+## EF
+
 - [x] Sql
-- [x] Migrations
+- [x] Migrations]
 
 ## API contendo as seguintes funcionalidades:
 
@@ -36,11 +37,23 @@
         - Retornar a lista ordenada por filmes mais votados e por ordem alfabética
     - Detalhes do filme trazendo todas as informações sobre o filme, inclusive a média dos votos
 
-## Usuarios para Testes
+## Usuarios para Teste
 
 	- admin@admin.com senha: Admin@12345
 	- user@user.com   senha:User@12345
 	
 ## Setup
-	- Rode o comando docker-compose -f video-store.yml up --build na pasta docker-compose na raiz do projeto.
 	
+	- Rode o comando docker-compose -f ./docker-compose/video-store.yml up --build na raiz do projeto.
+	- http://localhost:5001/swagger
+	
+## - Para rodar em alguma IDE  e necessário configurar appsentings
+	- BD:
+		- "DATABASE_HOST": "localhost",
+		- "DATABASE_USER": "SA",
+		- "DATABASE_PASSWORD": "mssql1Ipw",
+    
+	- JWT:			
+		- "JWTKEY": "MINHA CHAVE SUPER SECRETA",
+		- "JWTISSUER": "VideoStore",
+		- "JWTAUDIENCE": "AdminClient",
