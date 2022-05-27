@@ -21,7 +21,7 @@ services:
       image: videostore:latest
       container_name: video-store
       build:
-        context: ../../VideoStore
+        context: ../.
         dockerfile: ./VideoStore.API/Dockerfile
       ports:
         - 5001:5001
