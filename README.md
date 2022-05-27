@@ -10,10 +10,9 @@
 - [x] FluentValidation
 - [x] Docker
 
-## EF
-
+## ORM EF (ENTITY FRAMEWORK)
 - [x] Sql
-- [x] Migrations]
+- [x] Migrations
 
 ## API contendo as seguintes funcionalidades:
 
