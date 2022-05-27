@@ -26,7 +26,7 @@ namespace VideoStore.Application.Queries.GetAllMovie
 
             var moviesViewModel = movies.Select(p => new MovieViewModel(p)).ToList();
 
-            return PagedList<MovieViewModel>.ToPagedList(moviesViewModel, request.movieParameters.PageNumber, request.movieParameters.PageSize);
+            return await Task.FromResult(PagedList<MovieViewModel>.ToPagedList(moviesViewModel, request.movieParameters.PageNumber, request.movieParameters.PageSize));
         }
     }
 }

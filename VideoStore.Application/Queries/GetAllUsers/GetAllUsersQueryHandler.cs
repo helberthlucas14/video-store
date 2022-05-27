@@ -24,7 +24,7 @@ namespace VideoStore.Application.Queries.GetAllUsers
         {
             var users = _repository.GetAllAsync(request.usersParameters);
             var usersViewModel = users.Select(p => new UserViewModel(p)).ToList();
-            return PagedList<UserViewModel>.ToPagedList(usersViewModel, request.usersParameters.PageNumber, request.usersParameters.PageSize);
+            return await Task.FromResult(PagedList<UserViewModel>.ToPagedList(usersViewModel, request.usersParameters.PageNumber, request.usersParameters.PageSize));
         }
     }
 }
