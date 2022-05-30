@@ -44,7 +44,7 @@
 ## Setup
 	
 	- Rode o comando docker-compose -f ./docker-compose/video-store.yml up --build na raiz do projeto.
-	- http://localhost:5001/swagger
+	- http://localhost:5001/
 	
 ## - Para rodar em alguma IDE  e necessário configurar appsentings
 	- BD:
