@@ -28,9 +28,9 @@ services:
       environment:
         - ASPNETCORE_ENVIRONMENT=Development
         - ASPNETCORE_URLS=http://*:5001
-        - JWTKEY =MEUSECRETTOKEN
-        - JWTISSUER =VideoStore
-        - JWTAUDIENCE =AdminClient
+        - JWTKEY=MEUSECRETTOKEN
+        - JWTISSUER=VideoStore
+        - JWTAUDIENCE=AdminClient
         - DATABASE_HOST=sqlserverdb
         - DATABASE_USER=SA
         - DATABASE_PASSWORD=mssql1Ipw
