@@ -1,4 +1,4 @@
-# Desafio .NET 5
+# Desafio .NET 
  
 ## Técnicas
 
