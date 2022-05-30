@@ -5,15 +5,14 @@
 - [x] RESTfull
 - [x] Autenticação JWT
 - [x] Swagger
-- [x] Versionamento de API
 - [x] CQRS 
 - [x] FluentValidation
 - [x] Docker
 
-## EF
+## ORM EF (Entity Framework)
 
-- [x] Sql
-- [x] Migrations
+- [x] Sql Server
+
 
 ## API contendo as seguintes funcionalidades:
 
