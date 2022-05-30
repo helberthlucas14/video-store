@@ -1,4 +1,4 @@
-# Desafio Desenvolvedora .NET 5
+# Desafio .NET 5
  
 ## Técnicas
 
@@ -8,11 +8,8 @@
 - [x] CQRS 
 - [x] FluentValidation
 - [x] Docker
-
-## ORM EF (Entity Framework)
-
-- [x] Sql Server
-
+- [x] Entity Framework (ORM)  
+	- [x] Sql Server
 
 ## API contendo as seguintes funcionalidades:
 
